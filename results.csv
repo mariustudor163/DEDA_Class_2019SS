@@ -1,0 +1,19 @@
+GPD per capita descriptive analysis,
+Mean,22670.04438
+Meadian,15552.05099
+Maximum,102910.435
+Minimum,503.9026066
+Standard deviation,20482.61418
+Jarques-Bera and Probability,25.85217145
+Skewness,1.21913375
+,
+RD IN GDP descriptive analysis,
+Mean,1.133872464
+Meadian,0.730050027
+Maximum,4.148519993
+Minimum,0.052069999
+Standard deviation,1.030678651
+Jarques-Bera and Probability,18.32546697
+Skewness,1.166028002
+Probability,0.0001049
+F Test,"F_onewayResult(statistic=93.09023315996497, pvalue=1.7675063384652276e-17)"
